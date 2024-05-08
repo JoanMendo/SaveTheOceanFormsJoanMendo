@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario>
+    <nombre>ewrwerf</nombre>
+    <rol>Veterinario</rol>
+    <experiencia>50</experiencia>
+  </usuario>
+  <usuario>
+    <nombre>a</nombre>
+    <rol>Técnico</rol>
+    <experiencia>-20</experiencia>
+  </usuario>
+  <usuario>
+    <nombre>eqe3eq3</nombre>
+    <rol>Veterinario</rol>
+    <experiencia>50</experiencia>
+  </usuario>
+  <usuario>
+    <nombre>3424235</nombre>
+    <rol>Técnico</rol>
+    <experiencia>-20</experiencia>
+  </usuario>
+  <usuario>
+    <nombre>hola raquel o carles</nombre>
+    <rol>Técnico</rol>
+    <experiencia>50</experiencia>
+  </usuario>
+  <usuario>
+    <nombre>adawdad</nombre>
+    <rol>Técnico</rol>
+    <experiencia>-20</experiencia>
+  </usuario>
+  <usuario>
+    <nombre>Apruebenme</nombre>
+    <rol>Técnico</rol>
+    <experiencia>50</experiencia>
+  </usuario>
+</usuarios>

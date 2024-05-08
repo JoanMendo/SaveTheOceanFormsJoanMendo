@@ -8,8 +8,9 @@ namespace SaveTheOcean2.Connections
     {
         public static string OpenConnection()
         {
+            //Aqui se ha de cambiar la ruta del archivo appsettings.json, no he encontrado una forma de hacerlo de forma relativa
             IConfiguration config = new ConfigurationBuilder()
-                .AddJsonFile(@"E:\DAMv1\SaveTheOcean2\SaveTheOcean2\Connections\appsettings.json")
+                .AddJsonFile(@"C:\Users\joanm\source\repos\JoanMendo\SaveTheOceanFormsJoanMendo\conexion\appsettings.json")
                 .Build();
 
             return config.GetConnectionString("MyPostgresConn");
